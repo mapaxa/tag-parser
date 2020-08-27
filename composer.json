@@ -1,0 +1,16 @@
+{
+    "name": "mapaxa87/composer-example-package",
+    "description": "some descr",
+    "type": "library",
+    "require": {
+        "php": "^7.0"
+    },
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "mapaxa87",
+            "email": "alexeybespalov86@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
