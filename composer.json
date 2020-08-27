@@ -12,5 +12,10 @@
             "email": "alexeybespalov86@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "mapaxa87\\parser\\": "src/"
+        }
+    },
     "minimum-stability": "stable"
 }
